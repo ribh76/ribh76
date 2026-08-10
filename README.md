@@ -123,7 +123,5 @@ I enjoy building things—whether that's software, data products, or LEGO models
 💼 LinkedIn  
 https://www.linkedin.com/in/rishi-bhat-5132b0281/
 
-🌐 Portfolio Website *(Coming Soon)*
-
 📫 Email 
 ribh.891@gmail.com
