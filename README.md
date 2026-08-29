@@ -1,10 +1,10 @@
-# Hi, I'm Rishi 👋
+# Hi, I'm Rishi 
 
 ### Backend Engineer • AI • Data
 
 I build AI-powered applications and backend systems that automate workflows and turn data into useful products.
 
-🎓 Data Science @ San José State University
+Data Science @ San José State University
 
 ---
 
@@ -36,34 +36,6 @@ Tracks LEGO pricing and availability across retailers, helping collectors find t
 
 ---
 
-### 📰 AI News
-**AI news aggregation platform**
-
-Aggregates and organizes the latest AI news from multiple sources into one searchable platform.
-
----
-
-### 📊 Bay Area Housing Analysis
-**Data-driven housing market analysis**
-
-Explores Bay Area housing trends through data cleaning, visualization, and statistical analysis.
-
----
-
-### 🚶 GaitMate
-**Machine learning for gait analysis**
-
-A research-focused project exploring gait analysis using machine learning techniques.
-
----
-
-### ✈️ Flight Deals Tracker
-**Automated flight fare monitoring system**
-
-Tracks airfare prices to help travelers discover and monitor flight deals.
-
----
-
 ## Tech Stack
 
 ### Languages
@@ -84,8 +56,7 @@ Tracks airfare prices to help travelers discover and monitor flight deals.
 - Pandas
 - NumPy
 - SciPy
-- PyTorch
-- scikit-learn
+- Polars
 
 ### Tools
 
@@ -101,20 +72,6 @@ Tracks airfare prices to help travelers discover and monitor flight deals.
 - Machine Learning
 - Neural Networks
 - Backend System Design
-
----
-
-## Beyond Coding
-
-Outside of software, you'll usually find me:
-
-🏋️ Training at the gym
-
-🧱 Building LEGO sets
-
-🏎️ Watching IMSA endurance racing
-
-I enjoy building things—whether that's software, data products, or LEGO models.
 
 ---
 
