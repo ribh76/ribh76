@@ -6,8 +6,7 @@
 
 ## About Me
 
-I'm passionate about building practical software that combines backend engineering, AI, and data to solve real-world problems. I enjoy designing systems that automate workflows, surface meaningful insights, and turn complex data into intuitive products.
-
+I'm an SJSU student passionate about building software that combines backend engineering, AI, and data to solve problems. 
 I'm currently focused on expanding my knowledge in PostgreSQL, machine learning, and neural networks while continuing to build production-style applications.
 
 ---
