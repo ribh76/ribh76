@@ -2,10 +2,6 @@
 
 ### Backend Engineer • AI • Data
 
-I build AI-powered applications and backend systems that automate workflows and turn data into useful products.
-
-Data Science @ San José State University
-
 ---
 
 ## About Me
