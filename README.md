@@ -19,7 +19,7 @@ Tech: FastAPI, React, PostgreSQL, LLMs, Redis
 ---
 
 #### FlipRadar
-LEGO market intelligence platform that tracks LEGO pricing and availability on Ebay and BrickLink, helping collectors find the best deals, evaluate their portfolios and monitor market trends with lvie data
+LEGO market intelligence platform that tracks LEGO pricing and availability on Ebay and BrickLink, helping collectors find the best deals, evaluate their portfolios and monitor market trends with live data
 
 Tech: Python, FastAPI, Redis, PostgreSQL, LLMs
 
